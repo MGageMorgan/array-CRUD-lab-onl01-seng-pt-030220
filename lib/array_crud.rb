@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   array = []
-  array.shift(element)
+  array.shift()
 end
 
 def remove_element_from_start_of_array(array)
